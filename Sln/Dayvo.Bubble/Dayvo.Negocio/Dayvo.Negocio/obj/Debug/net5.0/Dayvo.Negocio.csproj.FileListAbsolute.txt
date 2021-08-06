@@ -1,0 +1,11 @@
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\bin\Debug\net5.0\Dayvo.Negocio.deps.json
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\bin\Debug\net5.0\Dayvo.Negocio.dll
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\bin\Debug\net5.0\ref\Dayvo.Negocio.dll
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\bin\Debug\net5.0\Dayvo.Negocio.pdb
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\obj\Debug\net5.0\Dayvo.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\obj\Debug\net5.0\Dayvo.Negocio.AssemblyInfoInputs.cache
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\obj\Debug\net5.0\Dayvo.Negocio.AssemblyInfo.cs
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\obj\Debug\net5.0\Dayvo.Negocio.csproj.CoreCompileInputs.cache
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\obj\Debug\net5.0\Dayvo.Negocio.dll
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\obj\Debug\net5.0\ref\Dayvo.Negocio.dll
+C:\Dayvo\Sln\Dayvo.Bubble\Dayvo.Negocio\Dayvo.Negocio\obj\Debug\net5.0\Dayvo.Negocio.pdb

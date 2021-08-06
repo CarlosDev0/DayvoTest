@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dayvo.Bubble", "Dayvo.Bubble\Dayvo.Bubble.csproj", "{381EC568-E8F4-4F16-9DD8-FC00060C6B3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{14E5F5F0-7EC0-4106-9C01-136F22D33BC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Negocio", "Negocio", "{8ADAD0AB-7510-409F-8D56-7C074558D5D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dayvo.Negocio", "Dayvo.Negocio\Dayvo.Negocio\Dayvo.Negocio.csproj", "{0825121C-7B0E-46AC-86A8-E8BBE9EF9867}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{01155B8C-E5F6-4C70-AB1F-42F9A7C4FA5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dayvo.Test", "Dayvo.Test\Dayvo.Test\Dayvo.Test.csproj", "{A1D86A5C-A27F-4977-B530-44F4E3A160A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381EC568-E8F4-4F16-9DD8-FC00060C6B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381EC568-E8F4-4F16-9DD8-FC00060C6B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381EC568-E8F4-4F16-9DD8-FC00060C6B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381EC568-E8F4-4F16-9DD8-FC00060C6B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0825121C-7B0E-46AC-86A8-E8BBE9EF9867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0825121C-7B0E-46AC-86A8-E8BBE9EF9867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0825121C-7B0E-46AC-86A8-E8BBE9EF9867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0825121C-7B0E-46AC-86A8-E8BBE9EF9867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D86A5C-A27F-4977-B530-44F4E3A160A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D86A5C-A27F-4977-B530-44F4E3A160A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D86A5C-A27F-4977-B530-44F4E3A160A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D86A5C-A27F-4977-B530-44F4E3A160A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{381EC568-E8F4-4F16-9DD8-FC00060C6B3B} = {14E5F5F0-7EC0-4106-9C01-136F22D33BC5}
+		{0825121C-7B0E-46AC-86A8-E8BBE9EF9867} = {8ADAD0AB-7510-409F-8D56-7C074558D5D1}
+		{A1D86A5C-A27F-4977-B530-44F4E3A160A9} = {01155B8C-E5F6-4C70-AB1F-42F9A7C4FA5D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245D2C42-7168-446E-AA6F-CE3906D3DFD7}
+	EndGlobalSection
+EndGlobal
